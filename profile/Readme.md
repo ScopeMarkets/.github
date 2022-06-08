@@ -2,7 +2,7 @@
 
 **About us**
 
-We possess a deep level of understanding by combining strategy, technology, data science, and design to solve the most complex challenges in a business and financial environment.
+We possess a deep level of understanding by combining strategy, technology, data science and design to solve the most complex challenges in a business and financial environment.
 
 **The Team**
 
